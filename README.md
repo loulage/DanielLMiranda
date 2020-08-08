@@ -5,7 +5,8 @@
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking for job oportunities as a software developer
 - 🥅 2020 and 2021 Goals: Finish the three courses I'm enrolled in | [Trybe](https://www.betrybe.com/) | [Origamid](https://www.origamid.com/) | [Rocketset](https://rocketseat.com.br/)
-- ⚡ Fun fact: I love technology and video games. Also interested in economics and geopolitics
+- 📚 Always trying to improve my programming and english skills
+- ⚡ I love technology and video games, and also very interested in economics and geopolitics
 
 ### Connect with me:
 
