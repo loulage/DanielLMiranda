@@ -10,7 +10,7 @@
 
 
 📩 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel_L_Miranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniellmiranda//)](https://www.linkedin.com/in/daniellmiranda/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldelacerdamiranda@gmail.com)](mailto:danieldelacerdamiranda@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-DanielLMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniellmiranda//)](https://www.linkedin.com/in/daniellmiranda/) [![Gmail Badge](https://img.shields.io/badge/-danieldelacerdamiranda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldelacerdamiranda@gmail.com)](mailto:danieldelacerdamiranda@gmail.com)
 
 
 <!--
