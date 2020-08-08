@@ -1,20 +1,20 @@
 # Hello, I'm Daniel de Lacerda Miranda 👋
 
-## About me
+### About me
 - 🧔🏽 I'm 20 years old, brazilian and living in São Paulo
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking for job oportunities as a software developer
 - 🥅 2020 and 2021 Goals: Finish the three courses I'm enrolled in | [Trybe](https://www.betrybe.com/) | [Origamid](https://www.origamid.com/) | [Rocketset](https://rocketseat.com.br/)
 - ⚡ Fun fact: I love technology and video games. Also interested in economics and geopolitics
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Daniel L. Miranda | LinkedIn" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/daniellmiranda/)
 [<img align="left" alt="Daniel L. Miranda | Email" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/gmail.png" />](https://www.linkedin.com/in/daniellmiranda/)
 
 <br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/vscode.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/html5.png" />
@@ -26,9 +26,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/terminal.png" />
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-
 
 <!--
 **DanielLMiranda/DanielLMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
