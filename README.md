@@ -1,5 +1,21 @@
-[![Linkedin Badge](https://img.shields.io/badge/-DanielLMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniellmiranda//)](https://www.linkedin.com/in/daniellmiranda/) [![Gmail Badge](https://img.shields.io/badge/-danieldelacerdamiranda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldelacerdamiranda@gmail.com)](mailto:danieldelacerdamiranda@gmail.com)
+### Hello, I'm Daniel de Lacerda Miranda 👋
 
+## About me
+- 🧔🏽 I'm 20 years old, brazillian living in São Paulo
+- 🌱 I’m currently taking a course at [Trybe](https://www.betrybe.com/) and 
+- 👯 I’m looking to
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
 <!--
 **DanielLMiranda/DanielLMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
