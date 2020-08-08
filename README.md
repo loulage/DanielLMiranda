@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, Daniel de Lacerda Miranda 👋 </h1>
+<h1 align="center"> Hello, I'm Daniel de Lacerda Miranda. Welcome to my GitHub profile 👋 </h1>
 <h3 align="center">🚀 Full Stack developer student 🚀</h3>
 
 👨🏽‍💻 ## About me
