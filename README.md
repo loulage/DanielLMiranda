@@ -8,14 +8,14 @@
 - 📚 Always trying to improve my programming and english skills
 - ⚡ I love technology and video games, and also very interested in economics and geopolitics
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="Daniel L. Miranda | LinkedIn" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/daniellmiranda/)
 [<img align="left" alt="Daniel L. Miranda | Email" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/gmail.png" />](mailto:danieldelacerdamiranda@gmail.com	)
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/vscode.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/html5.png" />
