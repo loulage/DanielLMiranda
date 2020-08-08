@@ -1,11 +1,11 @@
 ### Hello, I'm Daniel de Lacerda Miranda 👋
 
 ## About me
-- 🧔🏽 I'm 20 years old, brazillian living in São Paulo
-- 🌱 I’m currently taking a course at [Trybe](https://www.betrybe.com/) and 
-- 👯 I’m looking to
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🧔🏽 I'm 20 years old, brazilian and living in São Paulo
+- 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
+- 👯 I’m looking for job oportunities as a software developer
+- 🥅 2020 and 2021 Goals: Finish the three courses I'm enrolled in | [Trybe](https://www.betrybe.com/) | [Origamid](https://www.origamid.com/) | [Rocketset](https://rocketseat.com.br/)
+- ⚡ Fun fact: I love technology and video games. Also interested in economics and geopolitics
 
 ### Connect with me:
 
@@ -19,6 +19,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/vscode.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/html5.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/css3.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/react.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/redux.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/terminal.png" />
 
 <!--
 **DanielLMiranda/DanielLMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
