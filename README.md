@@ -21,6 +21,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/terminal.png" />
 
+<br />
+
 ### Connect with me
 
 [<img align="left" alt="Daniel L. Miranda | LinkedIn" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/daniellmiranda/)
