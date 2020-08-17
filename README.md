@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🧔🏽 I'm 20 years old, brazilian and living in São Paulo
+- 🧔🏽 I'm 20 years old, brazilian living in São Paulo
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking for job oportunities as a software developer
 - 🥅 2020 and 2021 Goals: Finish the three courses I'm enrolled in: [Trybe](https://www.betrybe.com/) | [Origamid](https://www.origamid.com/) | [Rocketseat](https://rocketseat.com.br/)
