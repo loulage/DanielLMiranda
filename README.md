@@ -35,7 +35,7 @@
 
 ### GitHub Stats
   
-<img align="left" alt="Daniel L. Miranda's GitHub Stats" src="https://github-readme-stats.daniellmiranda.vercel.app/api/?username=DanielLMiranda&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="left" alt="Daniel L. Miranda's GitHub Stats" src="https://github-readme-stats.daniellmiranda.vercel.app/api/?username=DanielLMiranda&show_icons=true&theme=radical&hide_border=true" />
 
 
 <!--
