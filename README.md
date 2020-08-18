@@ -31,6 +31,13 @@
 [<img align="left" alt="Daniel L. Miranda | LinkedIn" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/daniellmiranda/)
 [<img align="left" alt="Daniel L. Miranda | Email" width="22px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/gmail.png" />](mailto:danieldelacerdamiranda@gmail.com)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="Daniel L. Miranda's GitHub Stats" src="https://github-readme-stats.daniellmiranda.vercel.app/api/?username=DanielLMiranda&show_icons=true&hide_border=true" />
+
+</details>
+
 <!--
 **DanielLMiranda/DanielLMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
