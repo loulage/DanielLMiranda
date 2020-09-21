@@ -20,6 +20,8 @@
 <img align="left" alt="Redux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/redux.png" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/jest.png" />
 <img align="left" alt="RTL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/rtl.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/terminal.png" />
