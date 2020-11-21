@@ -19,6 +19,7 @@
 <img align="left" alt="Redux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/redux.png" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/jest.png" />
 <img align="left" alt="RTL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/rtl.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mysql2.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
@@ -36,9 +37,8 @@
 <br />
 
 ### GitHub Stats
-  
-<img align="left" alt="Daniel L. Miranda's GitHub Stats" src="https://github-readme-stats.daniellmiranda.vercel.app/api/?username=DanielLMiranda&show_icons=true&theme=radical&hide_border=true" />
 
+<img align="left" alt="Daniel L. Miranda's GitHub Stats" src="https://github-readme-stats.daniellmiranda.vercel.app/api/?username=DanielLMiranda&show_icons=true&theme=radical&hide_border=true" />
 
 <!--
 **DanielLMiranda/DanielLMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
